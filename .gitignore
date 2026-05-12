@@ -5,7 +5,6 @@ __pycache__/
 cache/
 outputs/
 data/
-checkpoints/
 !data/.gitkeep
 !data/distribution/.gitkeep
 !checkpoints/.gitkeep
