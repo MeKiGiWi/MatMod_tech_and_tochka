@@ -33,7 +33,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--forecast-notebook",
-        default="notebooks/present_v2/02_clean_previous_runs_test_finetune_submission.ipynb",
+        default="notebooks/training_and_eval/02_clean_previous_runs_test_finetune_submission.ipynb",
         help="Notebook with the working TFT pipeline.",
     )
     parser.add_argument(

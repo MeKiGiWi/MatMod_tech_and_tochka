@@ -2,6 +2,8 @@ __pycache__/
 .DS_Store
 .ipynb_checkpoints/
 .venv/
+data/**
+outputs/**
 !data/.gitkeep
 !data/distribution/.gitkeep
 !checkpoints/.gitkeep
